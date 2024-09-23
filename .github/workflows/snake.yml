@@ -1,0 +1,42 @@
+name: Snake Eating Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate snake eating contribution graph
+      uses: Platane/snk@v3
+      with:
+        github_user_name: "a5hhaad"
+        outputs: |
+          output/github-contribution-grid-snake.svg
+          output/github-contribution-grid-snake-dark.svg?palette=github-dark
+          output/github-contribution-grid-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "Ashhaad"
+        git config --local user.email "ashhad0105@gmail.com"
+        
+        # Ensure the output directory exists
+        mkdir -p output
+        
+        # Add changes and commit
+        git add output/*
+        if [ "$(git diff --cached --name-only)" ]; then
+          git commit -m "Update contribution graph"
+          git push origin main  # Push to the main branch
+        else
+          echo "No changes to commit"
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
