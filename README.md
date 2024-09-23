@@ -62,9 +62,23 @@
 
 ## 📫 **Contact Me**
 
-- Email: mdashhaad.sadique.csit2025@trident.ac.in
-- LinkedIn: [Ashhaad on LinkedIn](https://www.linkedin.com/in/ashhaad)
-- Portfolio: [Ashhaad's Portfolio](https://your-portfolio-link.com)
+<div align="center">
+  <a href="mailto:ashhad0105@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/854CE6/mail.png" alt="Email" style="transform: scale(1.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1.1)'" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashhaad">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #0A66C2);" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" style="opacity: 0.8;" />
+  </a>
+  <a href="https://x.com/a5hhaad">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/x.png" alt="X" style="border: 2px dashed #1DA1F2; border-radius: 5%;" />
+  </a>
+  <a href="https://www.instagram.com/a5hhaad">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" style="background-color: #E4405F; border-radius: 50%; padding: 5px;" />
+  </a>
+</div>
 
 ---
 
