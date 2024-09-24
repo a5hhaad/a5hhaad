@@ -24,8 +24,6 @@ I am a technology enthusiast with a background in engineering. My focus is on fu
   <p style="margin-bottom: -10px;">Check out my projects, skills, and achievements!</p>
 </div>
 
-
-
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Animated GIF" width="18" height="18"/> **Skills**
