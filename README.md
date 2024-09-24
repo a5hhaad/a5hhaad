@@ -1,5 +1,7 @@
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Animated GIF" width="350"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Animated GIF" width="300"/>
 </div>
 
 <h1 align="center">
@@ -14,6 +16,15 @@
 
 ## 👨‍💻 **About Me**
 I am a technology enthusiast with a background in engineering. My focus is on full-stack development and cloud computing. I am passionate about learning new technologies and applying them to solve real-world challenges. I am open to collaboration and eager to contribute to projects that push the boundaries of innovation.
+
+<div align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://camo.githubusercontent.com/7b3a65fcfa0eba7775c665c73edf42939c16181afe1425464afe4331788a7a60/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646f6d61696e2e706e67" alt="Logo" style="margin-bottom: 10px; border-radius: 8px; border: 2px solid #ccc;" />
+  </a>
+  <p style="margin-bottom: -10px;">Check out my projects, skills, and achievements!</p>
+</div>
+
+
 
 ---
 
@@ -34,18 +45,7 @@ I am a technology enthusiast with a background in engineering. My focus is on fu
 
 ---
 
-## **GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashhaad&show_icons=true&hide_border=true&theme=midnight-purple" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhaad&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
-</div>
-
----
-
-## <img src="https://cdn.dribbble.com/users/614757/screenshots/1745262/media/957eb6613e7829ad7d1d0080c63ca5ce.gif" alt="GitHub Trophy" width="150" height="150"/>** jdfnvhfv
-
-
+## 🏆 **GitHub Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ashhaad&theme=monokai&no-frame=true&row=1" alt="GitHub Trophies">
@@ -53,25 +53,19 @@ I am a technology enthusiast with a background in engineering. My focus is on fu
 
 ---
 
-## <br><br><img src="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif" alt="Animated Graph" width="18" height="18"/> **Activity Graph**
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=a5hhaad&theme=react-dark&bg_color=20232a&hide_border=true" alt="Ashhaad's Activity Graph" />
-</div>
-
----
-
-##  **Contact Me**
+## 📫 **Contact Me**
 
 <p align="center">
-  <a href="mailto:ashhad0105@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" style="width:auto;" /></a>
-  <a href="https://linkedin.com/in/ashhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="ashhaad" height="30" style="width:auto;" /></a>
-  <a href="https://twitter.com/a5hhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="30" style="width:auto;" /></a>
-  <a href="https://instagram.com/a5hhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="a5hhaad" height="30" style="width:auto;" /></a>
-  <a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="30" style="width:auto;" /></a>
+  <a href="mailto:ashhad0105@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/ashhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="ashhaad" height="40" /></a>
+  <a href="https://twitter.com/a5hhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" /></a>
+  <a href="https://instagram.com/a5hhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="a5hhaad" height="40" /></a>
 </p>
 
 ---
 
-![snake eating contributions](https://raw.githubusercontent.com/a5hhaad/a5hhaad/main/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a5hhaad/a5hhaad/main/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+</p>
 
+---
