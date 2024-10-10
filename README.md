@@ -18,7 +18,7 @@
 I am a technology enthusiast with a background in engineering. My focus is on full-stack development and cloud computing. I am passionate about learning new technologies and applying them to solve real-world challenges. I am open to collaboration and eager to contribute to projects that push the boundaries of innovation.
 
 <div align="center">
-  <a href="(https://a5hhaad.github.io/)" target="_blank">
+  <a href="https://a5hhaad.github.io/" target="_blank">
     <img src="https://camo.githubusercontent.com/7b3a65fcfa0eba7775c665c73edf42939c16181afe1425464afe4331788a7a60/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646f6d61696e2e706e67" alt="Logo" style="margin-bottom: 10px; border-radius: 8px; border: 2px solid #ccc;" />
   </a>
   <p style="margin-bottom: -10px;">Check out my projects, skills, and achievements!</p>
