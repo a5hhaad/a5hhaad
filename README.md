@@ -58,6 +58,7 @@ I am a technology enthusiast with a background in engineering. My focus is on fu
   <a href="https://linkedin.com/in/ashhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="ashhaad" height="40" /></a>
   <a href="https://twitter.com/a5hhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" /></a>
   <a href="https://instagram.com/a5hhaad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="a5hhaad" height="40" /></a>
+  <a href="https://discord.com/users/1156720431202566144" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord.png" alt="Discord" height="40" /></a>
 </p>
 
 ---
