@@ -35,9 +35,6 @@ I am a technology enthusiast with a background in engineering. My focus is on fu
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
 
